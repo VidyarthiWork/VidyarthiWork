@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vasudev Vidyarthi ! (@VidyarthiWork)
+- 👀 I’m interested in Machine Learning, Cloud Development, Game Development, Simulation Softwares, Distributed Systems, and Quantum Computing.
+- 🌱 I’m currently pursuing my Bachelors in Computer Science from the University of Waterloo, Ontario, Canada.
+- 💞️ I’m looking for a coop internship opportunity for the Fall 2021 term (Sept 2021 - Dec 2021).
+- 📫 Please reach me via email at vidyarthivasudev@gmail.com or via text message at my linkedin profile https://www.linkedin.com/in/vasudev-vidyarthi/
